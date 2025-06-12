@@ -44,7 +44,7 @@
 ## 🧩 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=blocryx&theme=rogue" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=qasimxlr&theme=rogue" alt="GitHub Activity Graph" />
 </p>
 
 ---
